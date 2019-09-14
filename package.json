@@ -2,7 +2,7 @@
     "name": "bs4sinppets",
     "displayName": "bs4sinppets",
     "description": "simple bootstrap 4 snippet generator",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/ashmitmittal/vs-code-bs4.git"

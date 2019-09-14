@@ -1,4 +1,4 @@
-# Bootstrap 4 Snippet By Piyush Garg
+# Bootstrap 4 Snippet By Ashmit Mittal
 
 ### Please Read the usage
 
